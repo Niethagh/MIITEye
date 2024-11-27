@@ -1,0 +1,10 @@
+C:\Users\vedma\Desktop\Eye_Miit\GTranslatorAPIF\bin\Debug\GTranslatorAPIF.dll.config
+C:\Users\vedma\Desktop\Eye_Miit\GTranslatorAPIF\bin\Debug\GTranslatorAPIF.dll
+C:\Users\vedma\Desktop\Eye_Miit\GTranslatorAPIF\bin\Debug\GTranslatorAPIF.pdb
+C:\Users\vedma\Desktop\Eye_Miit\GTranslatorAPIF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vedma\Desktop\Eye_Miit\GTranslatorAPIF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vedma\Desktop\Eye_Miit\GTranslatorAPIF\obj\Debug\GTranslatorAPIF.csproj.AssemblyReference.cache
+C:\Users\vedma\Desktop\Eye_Miit\GTranslatorAPIF\obj\Debug\GTranslatorAPIF.csproj.CoreCompileInputs.cache
+C:\Users\vedma\Desktop\Eye_Miit\GTranslatorAPIF\obj\Debug\GTransla.D5FE0B80.Up2Date
+C:\Users\vedma\Desktop\Eye_Miit\GTranslatorAPIF\obj\Debug\GTranslatorAPIF.dll
+C:\Users\vedma\Desktop\Eye_Miit\GTranslatorAPIF\obj\Debug\GTranslatorAPIF.pdb

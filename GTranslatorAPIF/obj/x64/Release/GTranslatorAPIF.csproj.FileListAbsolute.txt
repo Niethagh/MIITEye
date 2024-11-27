@@ -1,0 +1,10 @@
+K:\AssistAnt-main\GTranslatorAPIF\bin\x64\Release\GTranslatorAPIF.dll.config
+K:\AssistAnt-main\GTranslatorAPIF\bin\x64\Release\GTranslatorAPIF.dll
+K:\AssistAnt-main\GTranslatorAPIF\bin\x64\Release\GTranslatorAPIF.pdb
+K:\AssistAnt-main\GTranslatorAPIF\bin\x64\Release\Newtonsoft.Json.dll
+K:\AssistAnt-main\GTranslatorAPIF\bin\x64\Release\Newtonsoft.Json.xml
+K:\AssistAnt-main\GTranslatorAPIF\obj\x64\Release\GTranslatorAPIF.csproj.AssemblyReference.cache
+K:\AssistAnt-main\GTranslatorAPIF\obj\x64\Release\GTranslatorAPIF.csproj.CoreCompileInputs.cache
+K:\AssistAnt-main\GTranslatorAPIF\obj\x64\Release\GTransla.D5FE0B80.Up2Date
+K:\AssistAnt-main\GTranslatorAPIF\obj\x64\Release\GTranslatorAPIF.dll
+K:\AssistAnt-main\GTranslatorAPIF\obj\x64\Release\GTranslatorAPIF.pdb
