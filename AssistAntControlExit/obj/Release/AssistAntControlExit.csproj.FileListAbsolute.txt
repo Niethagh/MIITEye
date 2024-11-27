@@ -1,0 +1,7 @@
+K:\AssistAnt-main\AssistAntControlExit\bin\Release\AssistAntControlExit.exe.config
+K:\AssistAnt-main\AssistAntControlExit\bin\Release\AssistAntControlExit.exe
+K:\AssistAnt-main\AssistAntControlExit\bin\Release\AssistAntControlExit.pdb
+K:\AssistAnt-main\AssistAntControlExit\obj\Release\AssistAntControlExit.csproj.AssemblyReference.cache
+K:\AssistAnt-main\AssistAntControlExit\obj\Release\AssistAntControlExit.csproj.CoreCompileInputs.cache
+K:\AssistAnt-main\AssistAntControlExit\obj\Release\AssistAntControlExit.exe
+K:\AssistAnt-main\AssistAntControlExit\obj\Release\AssistAntControlExit.pdb

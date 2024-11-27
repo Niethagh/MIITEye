@@ -1,0 +1,7 @@
+C:\Users\vedma\Desktop\Eye_Miit\AssistAntControlExit\bin\Debug\AssistAntControlExit.exe.config
+C:\Users\vedma\Desktop\Eye_Miit\AssistAntControlExit\bin\Debug\AssistAntControlExit.exe
+C:\Users\vedma\Desktop\Eye_Miit\AssistAntControlExit\bin\Debug\AssistAntControlExit.pdb
+C:\Users\vedma\Desktop\Eye_Miit\AssistAntControlExit\obj\Debug\MIIT_Eye_Control_Exit.csproj.AssemblyReference.cache
+C:\Users\vedma\Desktop\Eye_Miit\AssistAntControlExit\obj\Debug\MIIT_Eye_Control_Exit.csproj.CoreCompileInputs.cache
+C:\Users\vedma\Desktop\Eye_Miit\AssistAntControlExit\obj\Debug\AssistAntControlExit.exe
+C:\Users\vedma\Desktop\Eye_Miit\AssistAntControlExit\obj\Debug\AssistAntControlExit.pdb
